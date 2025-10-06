@@ -1,4 +1,4 @@
-Just run and waiting for the program.
+Just run and wait the program running for about 10 min.
 Each line in the result file is a craftable shape's code.
 For example:
 1111:1100:0011:1111
