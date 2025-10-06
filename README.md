@@ -9,3 +9,5 @@ means:
 1111
 In shapez1, actually some guys have made several TMAM circuit and have been successfully tested.
 Maybe one day i will make one too.
+
+The number of craftable shapes is 48432.
